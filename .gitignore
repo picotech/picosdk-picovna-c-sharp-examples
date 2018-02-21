@@ -6,6 +6,7 @@
 **/.vs
 **/bin
 **/obj
+**/packages
 
 # Files 
 **/*.csproj.user
@@ -16,3 +17,4 @@
 **/*.rej
 **/*.suo
 **/*.csv
+**/*.cal
