@@ -1,4 +1,17 @@
-﻿using System;
+﻿/**************************************************************************
+ *
+ * Filename: PicoVNAS21LogMag.cs
+ * 
+ * Description:
+ *  This is an example program that demonstrates the loading of 
+ *  calibration files, S21 data collection and plot of the log magnitude 
+ *  for a PicoVNA Vector Network Analyzer.
+ * 
+ * Copyright (C) 2018 Pico Technology Ltd. See LICENSE file for terms.
+ *
+ **************************************************************************/
+
+using System;
 using System.Windows.Forms;
 using PicoControl2;
 

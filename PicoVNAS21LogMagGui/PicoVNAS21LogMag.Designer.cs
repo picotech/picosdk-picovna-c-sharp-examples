@@ -1,4 +1,12 @@
-﻿namespace PicoVNAS21LogMagGuiExample
+﻿/******************************************************************************
+ *
+ * Filename: PicoVNA21LogMagDesigner.cs
+ * 
+ * Copyright (C) 2018 Pico Technology Ltd. See LICENSE file for terms.
+ *
+ ******************************************************************************/
+
+namespace PicoVNAS21LogMagGuiExample
 {
     partial class PicoVNAS21LogMag
     {

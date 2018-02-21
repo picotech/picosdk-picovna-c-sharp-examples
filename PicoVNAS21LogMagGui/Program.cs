@@ -1,7 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿/**************************************************************************
+ *
+ * Filename: Program.cs
+ * 
+ * Description:
+ *  Provide the main entry point for the application.
+ * 
+ * Copyright (C) 2018 Pico Technology Ltd. See LICENSE file for terms.
+ *
+ **************************************************************************/
+
+using System;
 using System.Windows.Forms;
 
 namespace PicoVNAS21LogMagGuiExample
