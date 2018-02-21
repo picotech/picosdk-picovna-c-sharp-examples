@@ -1,4 +1,4 @@
-# .gitattributes file for picovna-c-sharp-examples repository
+# .gitattributes file for picosdk-picovna-c-sharp-examples repository
 
 # Set the default behavior, in case people don't have core.autocrlf set.
 * text=auto
