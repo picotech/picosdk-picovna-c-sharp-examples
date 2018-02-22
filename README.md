@@ -11,7 +11,7 @@ Examples are provided as projects in a Microsoft Visual Studio Community 2017 so
 #### Microsoft Windows
 
 * [Microsoft Visual Studio 2017](https://www.visualstudio.com/) (including Community edition) or later.  
-* PicoVNA 2 software (see [Installing software](#Installing software))
+* PicoVNA 2 software (see [Installing software](#installing-software))
 
 **Notes:**
 
