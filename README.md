@@ -1,6 +1,6 @@
 # picosdk-picovna-c-sharp-examples
 
-*picosdk-picovna-c-sharp-examples* is a set of C# examples for the PicoVNA<sup>TM</sup> Vector Network Analyzer.
+*picosdk-picovna-c-sharp-examples* is a set of C# examples for the PicoVNA<sup>®</sup> Vector Network Analyzer.
 
 Examples are provided as projects in a Microsoft Visual Studio Community 2017 solution.
 
@@ -41,7 +41,7 @@ Contributions are welcome. Please refer to our [guidelines for contributing](.gi
 
 See [LICENSE.md](LICENSE.md) for license terms. 
 
-*PicoVNA* is a trademark of Pico Technology Ltd.  
+*PicoVNA* is a registered trademark of Pico Technology Ltd.  
 
 *Windows* and *Visual Studio* are registered trademarks of Microsoft Corporation.
 
